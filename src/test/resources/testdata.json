@@ -1,0 +1,34 @@
+{
+  "validLogin": [
+    {
+      "username": "Admin",
+      "password": "admin123"
+    }
+  ],
+  "invalidLogin": [
+    {
+      "username": "InvalidUser",
+      "password": "WrongPass123"
+    },
+    {
+      "username": "Admin",
+      "password": "wrongPassword1"
+    }
+  ],
+  "existingEmployee": [
+    {
+      "employeeName": "123445 444444"
+    }
+  ],
+  "nonExistingEmployee": [
+    {
+      "employeeName": "Zzxxqq NoSuchPerson"
+    }
+  ],
+  "newEmployee": [
+    {
+      "firstName": "John",
+      "lastName": "Tester"
+    }
+  ]
+}
