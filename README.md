@@ -86,11 +86,5 @@ allure open allure-report
 Step-level `INFO` logs and `ERROR`s are written to `logs/automation.log`
 (and mirrored to the console) via Log4j2.
 
-## Submission
-1. Create a **public** GitHub repository named `automation-testing-graduation-project`.
-2. Push this project to it, including the generated `allure-report/` folder
-   (do **not** commit `allure-results/` — it's already in `.gitignore`).
-3. Email the repo link to `nouranabil0216@gmail.com` with:
-   - Subject: `GP Task [Your Name] – Online/Offline`
-   - Body: the repository link
+
 "# graduation_project" 
